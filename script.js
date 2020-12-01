@@ -44,6 +44,7 @@ document.querySelector(".check").addEventListener("click", function(){
             document.querySelector(".score").textContent = 0    
         }
     }
+    
 // when guess is too high
     
 //     }else if (guess > secretNumber) {
@@ -60,7 +61,7 @@ document.querySelector(".check").addEventListener("click", function(){
 //         }
     
 //     }
-// })
+})
 
 document.querySelector(".again").addEventListener("click", function(){
     // to reload the browser
