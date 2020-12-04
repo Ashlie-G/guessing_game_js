@@ -29,6 +29,7 @@ main {
   height: 65vh;
   color: #eee;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-around;
 }
